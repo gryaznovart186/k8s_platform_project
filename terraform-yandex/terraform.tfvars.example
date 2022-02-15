@@ -1,0 +1,4 @@
+# yc resource-manager cloud list ya cli)
+ya_cloud_id  = "some_cloud_id"
+# yc resource-manager folder list (ya cli)
+ya_folder_id = "some_folder_id"
